@@ -1,0 +1,5 @@
+@keyframes dash-march {
+  to {
+    stroke-dashoffset: var(--march-offset);
+  }
+}
